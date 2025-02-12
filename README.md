@@ -1,1 +1,1 @@
-# deepseek_openai_RAG
+# build ai apps with openAI and deepseek using langchain and RAG
